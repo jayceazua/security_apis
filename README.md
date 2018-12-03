@@ -7,3 +7,4 @@
 
 #### Notes:
 - [OWASP](https://www.owasp.org/index.php/category/owasp_top_ten_project): number one resource
+- [LoopBack](http://v4.loopback.io/)
